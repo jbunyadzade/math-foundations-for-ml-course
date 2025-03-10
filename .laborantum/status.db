@@ -4,21 +4,21 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 50,
-                "correct": 2
+                "correct": 3
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/config.yml",
             "status": {
                 "total": 50,
-                "correct": 2
+                "correct": 3
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/config.yml",
             "status": {
                 "total": 33,
-                "correct": 2
+                "correct": 3
             }
         },
         {
@@ -149,8 +149,14 @@
             "path": "/texts/course/1. Linear Algebra/1. Vectors/3. Sum of Vectors Quiz 2/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    2,
+                    3,
+                    7,
+                    5
+                ]
             }
         },
         {
