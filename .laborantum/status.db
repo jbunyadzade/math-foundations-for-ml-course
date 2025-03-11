@@ -4,21 +4,21 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 50,
-                "correct": 4
+                "correct": 6
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/config.yml",
             "status": {
                 "total": 50,
-                "correct": 4
+                "correct": 6
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/config.yml",
             "status": {
                 "total": 33,
-                "correct": 4
+                "correct": 6
             }
         },
         {
@@ -177,16 +177,26 @@
             "path": "/texts/course/1. Linear Algebra/1. Vectors/6. Scalar Product Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    6,
+                    0,
+                    2
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/7. Geometric Meaning Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    3,
+                    2,
+                    5
+                ]
             }
         },
         {
